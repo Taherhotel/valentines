@@ -1,0 +1,39 @@
+.heart{
+    height: 500px;
+
+    position: relative;
+
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  body {
+    background-color: rgb(182, 22, 22);
+    margin: auto;
+    width: 640px; 
+    padding: 100px;
+    font-family: 'Arial', sans-serif; 
+    color: black;    
+  }
+  h1{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    font-size: 24px;
+  }
+  button{
+    width: px;
+    height: px;
+    color: black;
+    background-color: red;
+    border: 3px solid black;
+    padding: 16px;
+  
+  }
+
